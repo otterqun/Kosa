@@ -248,11 +248,6 @@ onUnmounted(() => {
               'border-black text-black': currentTheme === 'raw'
             }">
       <p>Design with Gemini, Vue 3 & Tailwind CSS.</p>
-      <p class="mt-1">
-        <a href="https://github.com/username-kau" target="_blank" class="hover:opacity-75 transition-colors underline underline-offset-2">
-          Lihat Kod Sumber di GitHub
-        </a>
-      </p>
     </footer>
   </div>
 </template>
